@@ -1,0 +1,10 @@
+PYGAME DOCUMETATION:
+
+1. SURFACE:
+      one is display surface on which the game will run.
+      other one is surface in which we place our images text shapes etc. For displaying the these surfaces, we have to wrote the code but above surface will displayed by default.
+      
+      
+
+
+
